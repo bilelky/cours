@@ -1,0 +1,44 @@
+body {
+    background-color: #ff7300;
+    }
+    #div-2 {
+
+        font-weight: bold;
+
+    }
+
+    body {
+
+        background: rgb(248,142,85);
+background: linear-gradient(90deg, rgb(232, 150, 126) 10%, rgba(255,159,107,1) 35%, rgba(246,136,85,1) 100%);;
+text-align: center;
+
+    
+}
+
+
+    h2 {
+        font-family: ‘CernLight’, sans-serif;
+        font-weight: 200;
+        line-height: 1.2;
+        padding: 0px 0px 0px 0;
+        margin-right: 0%;
+        
+    }
+
+        .container {
+            width: 600px;
+            background-color: rgb(250, 235, 166);
+            margin: 20px auto;
+        }
+        
+        p {
+            text-align: left;
+
+        }
+
+        footer {
+            
+
+            margin-left: 150px;
+        }
